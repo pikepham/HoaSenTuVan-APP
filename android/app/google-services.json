@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703284969009",
+    "project_id": "hoasentuvan-6ef8a",
+    "storage_bucket": "hoasentuvan-6ef8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703284969009:android:c81ae83825c46f49701f10",
+        "android_client_info": {
+          "package_name": "com.example.hoasentuvan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703284969009-g57skn9t0hkod21j6hes7lorftf430gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEwzWXnSGhSkk7AwLjGCwnIozoRB-ywzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703284969009-g57skn9t0hkod21j6hes7lorftf430gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
